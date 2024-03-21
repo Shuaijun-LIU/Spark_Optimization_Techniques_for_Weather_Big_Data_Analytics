@@ -1,0 +1,72 @@
+[
+    {
+        "Year": 2014,
+        "Month": 7,
+        "Day": 1,
+        "Hour": 4,
+        "Temperature": 29.0,
+        "DewPointTemperature": 18.0,
+        "Pressure": NaN,
+        "WindDirection": 60,
+        "WindSpeed": 3.6,
+        "CloudCover": NaN,
+        "Rain1h": NaN,
+        "Rain6h": NaN
+    },
+    {
+        "Year": 2014,
+        "Month": 7,
+        "Day": 1,
+        "Hour": 5,
+        "Temperature": 30.0,
+        "DewPointTemperature": 17.0,
+        "Pressure": NaN,
+        "WindDirection": 60,
+        "WindSpeed": 2.1,
+        "CloudCover": NaN,
+        "Rain1h": NaN,
+        "Rain6h": NaN
+    },
+    {
+        "Year": 2014,
+        "Month": 7,
+        "Day": 1,
+        "Hour": 6,
+        "Temperature": 30.0,
+        "DewPointTemperature": 17.0,
+        "Pressure": NaN,
+        "WindDirection": 50,
+        "WindSpeed": 1.5,
+        "CloudCover": NaN,
+        "Rain1h": NaN,
+        "Rain6h": NaN
+    },
+    {
+        "Year": 2014,
+        "Month": 7,
+        "Day": 1,
+        "Hour": 7,
+        "Temperature": 30.0,
+        "DewPointTemperature": 19.0,
+        "Pressure": NaN,
+        "WindDirection": 190,
+        "WindSpeed": 5.7,
+        "CloudCover": NaN,
+        "Rain1h": NaN,
+        "Rain6h": NaN
+    },
+    {
+        "Year": 2014,
+        "Month": 7,
+        "Day": 1,
+        "Hour": 8,
+        "Temperature": 29.0,
+        "DewPointTemperature": 18.0,
+        "Pressure": NaN,
+        "WindDirection": 190,
+        "WindSpeed": 6.2,
+        "CloudCover": NaN,
+        "Rain1h": NaN,
+        "Rain6h": NaN
+    }
+]

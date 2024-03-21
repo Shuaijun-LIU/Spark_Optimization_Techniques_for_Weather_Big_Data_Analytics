@@ -1,0 +1,72 @@
+[
+    {
+        "Year": 2014,
+        "Month": 7,
+        "Day": 1,
+        "Hour": 4,
+        "Temperature": 290,
+        "Td": 190,
+        "Pressure": -9999,
+        "WindDirection": 80,
+        "WindSpeed": 41,
+        "CloudCover": -9999,
+        "Rain1h": -9999,
+        "Rain6h": -9999
+    },
+    {
+        "Year": 2014,
+        "Month": 7,
+        "Day": 1,
+        "Hour": 5,
+        "Temperature": 290,
+        "Td": 200,
+        "Pressure": -9999,
+        "WindDirection": 80,
+        "WindSpeed": 51,
+        "CloudCover": -9999,
+        "Rain1h": -9999,
+        "Rain6h": -9999
+    },
+    {
+        "Year": 2014,
+        "Month": 7,
+        "Day": 1,
+        "Hour": 6,
+        "Temperature": 280,
+        "Td": 190,
+        "Pressure": -9999,
+        "WindDirection": 100,
+        "WindSpeed": 46,
+        "CloudCover": -9999,
+        "Rain1h": -9999,
+        "Rain6h": -9999
+    },
+    {
+        "Year": 2014,
+        "Month": 7,
+        "Day": 1,
+        "Hour": 7,
+        "Temperature": 280,
+        "Td": 190,
+        "Pressure": -9999,
+        "WindDirection": 100,
+        "WindSpeed": 51,
+        "CloudCover": -9999,
+        "Rain1h": -9999,
+        "Rain6h": -9999
+    },
+    {
+        "Year": 2014,
+        "Month": 7,
+        "Day": 1,
+        "Hour": 8,
+        "Temperature": 270,
+        "Td": 180,
+        "Pressure": -9999,
+        "WindDirection": 90,
+        "WindSpeed": 51,
+        "CloudCover": -9999,
+        "Rain1h": -9999,
+        "Rain6h": -9999
+    }
+]
