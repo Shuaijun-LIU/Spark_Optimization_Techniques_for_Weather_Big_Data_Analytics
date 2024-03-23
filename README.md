@@ -9,4 +9,11 @@ In the 'code' section, we have divided the data processing, modeling and predict
 
 When PRESENTATION, we were not able to show too many details of the code due to time constraints, so hopefully this will help you understand more here.
 
-(All code is original to the term paper 2024 and should not be reproduced without permission!)
+Best,
+Shuaijun Liu, Xinyi Xie
+Mar 21, 2024
+
+
+
+-------------------------------------------------------------------------------------------------
+(To Others: All code is original to the term paper and should not be reproduced without permission!)
