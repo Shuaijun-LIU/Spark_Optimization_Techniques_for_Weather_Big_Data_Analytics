@@ -1,6 +1,21 @@
 # METCS777-term-paper-Team11
 ## For METCS777 term paper (Team11)
 
+METCS777-term-paper-Team11
+│
+├── code
+│   ├── 1.Dataset_Visualization_and_Acquisition.ipynb (Last commit by Shuaijun-LIU: Add files via upload)
+│   ├── 2.Processing_and_Model_NoSpark.ipynb (No commit message visible)
+│   └── 3.Processing_and_Model_Spark.ipynb (No commit message visible)
+│
+└── data
+    ├── 2014_2024 (Last commit message: commit 2)
+    ├── stations_infor (Last commit message: first commit)
+    ├── country-list.txt (Last commit message: commit 4)
+    ├── isd-format-document.pdf (Last commit message: commit 4)
+    ├── isd-lite-format.pdf (Last commit message: commit 4)
+    └── readme.txt (Last commit message: commit 4)
+
 Dear Prof.Pham and TA,
 
 In the 'data' section, you can see the small dataset of hourly weather data and station information data for the last 10 years in Japan that we used to train the model, which are distributed and stored in json and csv formats in the '2014_2024' and 'station_ infor' folders. Other supporting files can also be found in 'data', such as additional information for visualizing the dataset, and a 'readme' file exists for the dataset for detailed description.
