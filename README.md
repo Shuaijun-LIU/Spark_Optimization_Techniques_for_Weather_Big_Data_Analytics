@@ -1,17 +1,17 @@
-Exploring Apache Spark Performance Optimization Techniques Deep Learning-Driven Meteorological Big Data Analytics
-│
-├── code
-│   ├── 1.Dataset_Visualization_and_Acquisition.ipynb
-│   ├── 2.Processing_and_Model_NoSpark.ipynb
-│   └── 3.Processing_and_Model_Spark.ipynb
-│
-└── data
-    ├── 2014_2024
-    ├── stations_infor
-    ├── country-list.txt
-    ├── isd-format-document.pdf
-    ├── isd-lite-format.pdf
-    └── readme.txt
+# Exploring Apache Spark Performance Optimization Techniques Deep Learning-Driven Meteorological Big Data Analytics
+
+- **code**
+  - `1.Dataset_Visualization_and_Acquisition.ipynb`
+  - `2.Processing_and_Model_NoSpark.ipynb`
+  - `3.Processing_and_Model_Spark.ipynb`
+
+- **data**
+  - `2014_2024`
+  - `stations_infor`
+  - `country-list.txt`
+  - `isd-format-document.pdf`
+  - `isd-lite-format.pdf`
+  - `readme.txt`
 
 In the 'data' section, you can see the small dataset of hourly weather data and station information data for the last 10 years in Japan that we used to train the model, which are distributed and stored in json and csv formats in the '2014_2024' and 'station_ infor' folders. Other supporting files can also be found in 'data', such as additional information for visualizing the dataset, and a 'readme' file exists for the dataset for detailed description.
 
